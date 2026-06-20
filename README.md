@@ -1,0 +1,1 @@
+Este arquivo de texto serve para testar as alterações que serão enviadas ao meu repositório do GitHub.
